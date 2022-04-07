@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/painting.dart';
 
 void main() {
   runApp(const MyApp());
@@ -322,7 +323,6 @@ class _MyHomePageState extends State<MyHomePage> {
                               ],
                             ),
                           ),
-                          Icon(Icons.play_circle_outline_rounded, size: 40)
                         ],
                       )),
                 ),
@@ -348,11 +348,10 @@ class _MyHomePageState extends State<MyHomePage> {
                                       fontSize: 15,
                                       fontWeight: FontWeight.bold),
                                 ),
-                                Text("1 hour, 25 mins")
+                                Text("4 hour, 10 mins")
                               ],
                             ),
                           ),
-                          Icon(Icons.play_circle_outline_rounded, size: 40)
                         ],
                       )),
                 ),
@@ -375,11 +374,10 @@ class _MyHomePageState extends State<MyHomePage> {
                                 style: TextStyle(
                                     fontSize: 15, fontWeight: FontWeight.bold),
                               ),
-                              Text("1 hour, 25 mins")
+                              Text("2 hour, 37 mins")
                             ],
                           ),
                         ),
-                        Icon(Icons.play_circle_outline_rounded, size: 40)
                       ],
                     )),
               ],
