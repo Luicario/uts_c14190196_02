@@ -93,7 +93,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 Column(
                   children: [
                     Image(
-                      image: AssetImage('asset/atom.png'),
+                      image: AssetImage('atom.png'),
                       width: 30,
                     ),
                     Text("Science")
@@ -102,7 +102,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 Column(
                   children: [
                     Image(
-                      image: AssetImage('asset/chef.png'),
+                      image: AssetImage('chef.png'),
                       width: 30,
                     ),
                     Text("Cooking")
@@ -111,7 +111,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 Column(
                   children: [
                     Image(
-                      image: AssetImage('asset/maths.png'),
+                      image: AssetImage('maths.png'),
                       width: 30,
                     ),
                     Text("Math")
@@ -120,7 +120,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 Column(
                   children: [
                     Image(
-                      image: AssetImage('asset/dna.png'),
+                      image: AssetImage('dna.png'),
                       width: 30,
                     ),
                     Text("Biology")
@@ -129,7 +129,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 Column(
                   children: [
                     Image(
-                      image: AssetImage('asset/web-design.png'),
+                      image: AssetImage('web-design.png'),
                       width: 30,
                     ),
                     Text("Design")
@@ -156,7 +156,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       Padding(
                         padding: const EdgeInsets.only(bottom: 10),
                         child: Image(
-                          image: AssetImage('asset/atom.png'),
+                          image: AssetImage('atom.png'),
                           width: 30,
                         ),
                       ),
@@ -190,7 +190,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       Padding(
                         padding: const EdgeInsets.only(bottom: 10),
                         child: Image(
-                          image: AssetImage('asset/web-design.png'),
+                          image: AssetImage('web-design.png'),
                           width: 30,
                         ),
                       ),
@@ -224,7 +224,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       Padding(
                         padding: const EdgeInsets.only(bottom: 10),
                         child: Image(
-                          image: AssetImage('asset/dna.png'),
+                          image: AssetImage('dna.png'),
                           width: 30,
                         ),
                       ),
@@ -258,7 +258,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       Padding(
                         padding: const EdgeInsets.only(bottom: 10),
                         child: Image(
-                          image: AssetImage('asset/chef.png'),
+                          image: AssetImage('chef.png'),
                           width: 30,
                         ),
                       ),
@@ -304,7 +304,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       child: Row(
                         children: [
                           Image(
-                            image: AssetImage('assets/images/clipboard1.png'),
+                            image: AssetImage('teachings.png'),
                             width: 40,
                           ),
                           Padding(
@@ -334,7 +334,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       child: Row(
                         children: [
                           Image(
-                            image: AssetImage('assets/images/clipboard1.png'),
+                            image: AssetImage('teachings.png'),
                             width: 40,
                           ),
                           Padding(
@@ -362,7 +362,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     child: Row(
                       children: [
                         Image(
-                          image: AssetImage('assets/images/clipboard1.png'),
+                          image: AssetImage('teachings.png'),
                           width: 40,
                         ),
                         Padding(
